@@ -18,8 +18,8 @@ g  is to find stuff in a list you have by number
 ===================================================================
 =  IMPORTANT    ===================================================
 ===================================================================
-Please consider  ~/whereisit/README  rather than this as a starting
-point.  I would have used it rather this material were I to present
+Please consider  ~/whereisit/bincode/README  as a starting point.  
+I would have used it rather this material were I to present
 this collection of information.
 
 ===================================================================
